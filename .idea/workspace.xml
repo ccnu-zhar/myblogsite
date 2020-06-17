@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acb6b6b4-cb42-4d3f-886b-56fba53cbc8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/blog/templates/blog_list.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/blog/templates/blog_detail.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/templates/base.html" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1coMzaMcOmq1vM7Z7pBCAF3dCN9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog/static" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Python_Zhar\Django\django2\myblogsite\blog\static\blog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python_Zhar\Django\django2\myblogsite\blog\static" />
+      <recent name="E:\Python_Zhar\Django\django2\myblogsite\templates\blog" />
+      <recent name="E:\Python_Zhar\Django\django2\myblogsite\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="anran" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myblogsite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anran.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.anran" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acb6b6b4-cb42-4d3f-886b-56fba53cbc8e" name="Default Changelist" comment="" />
+      <created>1591190755835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591190755835</updated>
+      <workItem from="1591335981687" duration="10465000" />
+      <workItem from="1591606770775" duration="36393000" />
+      <workItem from="1591884547713" duration="22096000" />
+      <workItem from="1592033707974" duration="30784000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="892" y="240" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591341507052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="892" y="240" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591341507052" />
+    <state width="1378" height="261" key="GridCell.Tab.0.bottom" timestamp="1591809728906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1378" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591809728906" />
+    <state width="1378" height="261" key="GridCell.Tab.0.center" timestamp="1591809728906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1378" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591809728906" />
+    <state width="1378" height="261" key="GridCell.Tab.0.left" timestamp="1591809728906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1378" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591809728906" />
+    <state width="1378" height="261" key="GridCell.Tab.0.right" timestamp="1591809728906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1378" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591809728906" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1591341500606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1591341500606" />
+    <state x="371" y="238" key="SettingsEditor" timestamp="1592186748661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="371" y="238" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592186748661" />
+    <state x="754" y="84" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591979013858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="84" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591979013858" />
+    <state x="1001" y="53" width="786" height="900" key="find.popup" timestamp="1592035400829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1001" y="53" width="786" height="900" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592035400829" />
+    <state x="1147" y="361" key="search.everywhere.popup" timestamp="1591638212302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1147" y="361" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591638212302" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/myblogsite$anran.coverage" NAME="anran Coverage Results" MODIFIED="1591672295753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

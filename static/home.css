@@ -1,0 +1,16 @@
+h3.home-content{
+    font-size: 220%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h3.home-content-list{
+    font-size: 220%;
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+
+}

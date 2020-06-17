@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% load staticfiles %}
+
+{% block title %}
+    我的网站|首页
+{% endblock %}
+
+{% block header_extends %}
+    <link rel="stylesheet" href="{% static 'home.css' %}">
+            {#  注释： hchart图标显示#}
+    <script src="http://cdn.highcharts.com.cn/highcharts/highcharts.js"></script>
+{% endblock %}
+
+{% block nav_home_active%}active{% endblock %}
+
+
+{% block content %}
+    <h3 class="home-content"> 张安然|Django测试 </h3>
+    <a href="{% url 'blog_list' %}"><h3 class="home-content-list"> 点击进入博客列表 </h3> </a>
+
+{% endblock %}
+
+
+
